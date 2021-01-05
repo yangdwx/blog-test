@@ -13,7 +13,8 @@ yangdwx
 
 [个人链接](https://github.com/yangdwx/blog-test/blob/main/README.md)
 
-
+### 个人头像
+![头像](1.jpg)
 ```javascript
 var a = 1
 console.log(a)
