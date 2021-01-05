@@ -11,6 +11,8 @@ yangdwx
 1. 认真学完课程
 2. 找到前端相关工作
 
+[个人链接](https://github.com/yangdwx/blog-test/edit/main/README.md)
+
 
 ```javascript
 var a = 1
